@@ -3,6 +3,8 @@ title: GitHub Pages Deployment
 tags: github_actions, ci_cd
 ---
 
+[![Deploy to GitHub Pages](https://github.com/see7e/github-actions-deployment-workflow/actions/workflows/deploy.yml/badge.svg)](https://github.com/see7e/github-actions-deployment-workflow/actions/workflows/deploy.yml)
+
 # github-actions-deployment-workflow
 > https://roadmap.sh/projects/github-actions-deployment-workflow
 > Write a simple GitHub Actions workflow to deploy a static website to GitHub Pages.
