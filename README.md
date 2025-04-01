@@ -4,6 +4,7 @@ tags: github_actions, ci_cd
 ---
 
 [![Deploy to GitHub Pages](https://github.com/see7e/github-actions-deployment-workflow/actions/workflows/deploy.yml/badge.svg)](https://github.com/see7e/github-actions-deployment-workflow/actions/workflows/deploy.yml)
+[![wakatime](https://wakatime.com/badge/user/64702d7f-73f9-4165-a34d-d5da36c01a1f/project/96c8ebf4-6481-4326-a886-50b69201f91f.svg)](https://wakatime.com/badge/user/64702d7f-73f9-4165-a34d-d5da36c01a1f/project/96c8ebf4-6481-4326-a886-50b69201f91f)
 
 # github-actions-deployment-workflow
 > https://roadmap.sh/projects/github-actions-deployment-workflow
